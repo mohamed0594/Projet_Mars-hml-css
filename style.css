@@ -117,6 +117,7 @@ flex-wrap: wrap;
     font-size: 16px;
     cursor: pointer;
     border-radius: 10px;
+    margin: 20px;
    
 }
 .over{
@@ -181,6 +182,27 @@ color: red;
 font: bold;
 font-family:monospace;
 }
+.title-h2{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: red;
+    font-size: 20px;
+    font: bold;
+    text-transform: capitalize;
+}
+.p-princi{
+    margin: 40px;
+}
 
-
+.infos_filiere{
+background-color:rgb(224, 162, 162);
+width: 500px;
+justify-content: center;
+margin: 10px auto;
+border: 3px solid red;
+border-radius: 25%;
+border-bottom-left-radius: 30px;
+border: black;
+}
 
