@@ -1,3 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    scroll-behavior: smooth;
+}
 header {
     display: flex;
     justify-content: space-between;
@@ -173,39 +181,6 @@ color: red;
 font: bold;
 font-family:monospace;
 }
-@media (max-width: 400px){
 
-    .logo h1{
-        font-size: 10px;
-    }
-
-    .img h2{
-        font-size: 18px;
-    }
-
-    .lien a{
-        padding: 4px 8px;
-        font-size: 7px;
-    }
-
-    .flex-box{
-        width: 95%;
-        font-size: 14px;
-    }
-
-    .logos{
-        font-size: 30px;
-    }
-
-    form{
-        width: 95%;
-        padding: 15px;
-    }
-
-    .inscription input{
-        width: 100%;
-    }
-
-}
 
 
