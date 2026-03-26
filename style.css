@@ -176,7 +176,7 @@ font-family:monospace;
 @media (max-width: 400px){
 
     .logo h1{
-        font-size: 20px;
+        font-size: 10px;
     }
 
     .img h2{
@@ -184,8 +184,8 @@ font-family:monospace;
     }
 
     .lien a{
-        padding: 8px 15px;
-        font-size: 14px;
+        padding: 4px 8px;
+        font-size: 7px;
     }
 
     .flex-box{
